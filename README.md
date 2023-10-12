@@ -39,8 +39,7 @@
 
     img {
       border-radius: 50%;
-      
-      
+   
       
       
      
